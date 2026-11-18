@@ -1,0 +1,11 @@
+{
+  "name": "نقره خاتون",
+  "short_name": "خاتون",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f7f8f5",
+  "theme_color": "#0F6B4F",
+  "description": "گالری نقره خاتون"
+}
